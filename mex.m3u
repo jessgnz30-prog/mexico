@@ -1,0 +1,55 @@
+#EXTM3U url-tvg="https://iptv-epg.org/files/epg-mx.xml"
+
+#EXTINF:-1 tvg-id="tudn.mx" tvg-name="TUDN" group-title="Sports" tvg-url="https://iptv-epg.org/files/epg-mx.xml",TUDN
+https://iptv-org.github.io/iptv/countries/mx.m3u
+
+#EXTINF:-1 tvg-id="aztecauno.mx" tvg-name="Azteca Uno" group-title="General" tvg-url="https://iptv-epg.org/files/epg-mx.xml",Azteca Uno
+https://iptv-org.github.io/iptv/countries/mx.m3u
+
+#EXTINF:-1 tvg-id="azteca7.mx" tvg-name="Azteca 7" group-title="General" tvg-url="https://iptv-epg.org/files/epg-mx.xml",Azteca 7
+https://iptv-org.github.io/iptv/countries/mx.m3u
+
+#EXTINF:-1 tvg-id="lasestrellas.mx" tvg-name="Las Estrellas" group-title="General" tvg-url="https://iptv-epg.org/files/epg-mx.xml",Las Estrellas
+https://iptv-org.github.io/iptv/countries/mx.m3u
+
+#EXTINF:-1 tvg-id="canal5.mx" tvg-name="Canal 5" group-title="General" tvg-url="https://iptv-epg.org/files/epg-mx.xml",Canal 5
+https://iptv-org.github.io/iptv/countries/mx.m3u
+
+#EXTINF:-1 tvg-id="imagentv.mx" tvg-name="Imagen TV" group-title="General" tvg-url="https://iptv-epg.org/files/epg-mx.xml",Imagen TV
+https://iptv-org.github.io/iptv/countries/mx.m3u
+
+#EXTINF:-1 tvg-id="once.mx" tvg-name="Canal Once" group-title="General" tvg-url="https://iptv-epg.org/files/epg-mx.xml",Canal Once
+https://iptv-org.github.io/iptv/countries/mx.m3u
+
+#EXTINF:-1 tvg-id="canal22.mx" tvg-name="Canal 22" group-title="General" tvg-url="https://iptv-epg.org/files/epg-mx.xml",Canal 22
+https://iptv-org.github.io/iptv/countries/mx.m3u
+
+#EXTINF:-1 tvg-id="tvunam.mx" tvg-name="TV UNAM" group-title="General" tvg-url="https://iptv-epg.org/files/epg-mx.xml",TV UNAM
+https://iptv-org.github.io/iptv/countries/mx.m3u
+
+#EXTINF:-1 tvg-id="foxsports.mx" tvg-name="Fox Sports México" group-title="Sports" tvg-url="https://iptv-epg.org/files/epg-mx.xml",Fox Sports México
+https://iptv-org.github.io/iptv/countries/mx.m3u
+
+#EXTINF:-1 tvg-id="foxsports2.mx" tvg-name="Fox Sports 2 México" group-title="Sports" tvg-url="https://iptv-epg.org/files/epg-mx.xml",Fox Sports 2 México
+https://iptv-org.github.io/iptv/countries/mx.m3u
+
+#EXTINF:-1 tvg-id="foxsports3.mx" tvg-name="Fox Sports 3 México" group-title="Sports" tvg-url="https://iptv-epg.org/files/epg-mx.xml",Fox Sports 3 México
+https://iptv-org.github.io/iptv/countries/mx.m3u
+
+#EXTINF:-1 tvg-id="espn.mx" tvg-name="ESPN México" group-title="Sports" tvg-url="https://iptv-epg.org/files/epg-mx.xml",ESPN México
+https://iptv-org.github.io/iptv/countries/mx.m3u
+
+#EXTINF:-1 tvg-id="espn2.mx" tvg-name="ESPN 2 México" group-title="Sports" tvg-url="https://iptv-epg.org/files/epg-mx.xml",ESPN 2 México
+https://iptv-org.github.io/iptv/countries/mx.m3u
+
+#EXTINF:-1 tvg-id="espn3.mx" tvg-name="ESPN 3 México" group-title="Sports" tvg-url="https://iptv-epg.org/files/epg-mx.xml",ESPN 3 México
+https://iptv-org.github.io/iptv/countries/mx.m3u
+
+#EXTINF:-1 tvg-id="clarosports.mx" tvg-name="Claro Sports" group-title="Sports" tvg-url="https://iptv-epg.org/files/epg-mx.xml",Claro Sports
+https://iptv-org.github.io/iptv/countries/mx.m3u
+
+#EXTINF:-1 tvg-id="afizzionados.mx" tvg-name="Afizzionados" group-title="Sports" tvg-url="https://iptv-epg.org/files/epg-mx.xml",Afizzionados
+https://iptv-org.github.io/iptv/countries/mx.m3u
+
+#EXTINF:-1 tvg-id="skysports.mx" tvg-name="Sky Sports México" group-title="Sports" tvg-url="https://iptv-epg.org/files/epg-mx.xml",Sky Sports México
+https://iptv-org.github.io/iptv/countries/mx.m3u
